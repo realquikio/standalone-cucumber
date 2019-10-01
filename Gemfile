@@ -7,4 +7,5 @@ group(:test) do
   gem 'capybara'
   gem 'rspec'
   gem 'poltergeist'
+  gem 'phantomjs', :require => 'phantomjs/poltergeist'
 end

@@ -6,4 +6,4 @@ Feature: Search
   Scenario: Search for cucumber
     Given I am on the home page
     And I search for "cucumber bdd"
-    Then I should see "Cucumber is for Behaviour-Driven Development"
+    Then I should see "Central to the Cucumber BDD approach is its plain language parser called Gherkin"
